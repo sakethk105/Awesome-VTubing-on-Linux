@@ -48,7 +48,11 @@ List of streaming software, VTuber avatar tools, and audio utilities for Linux-b
 
 - [VNyan](https://suvidriel.itch.io/vnyan)  
   3D VTuber avatar tool (supports VRM/VSF avatars).  
-  **Linux:** Windows-only (works under Proton)  
+  **Linux:** Windows-only (works under Proton)
+  
+- [SnekStudio](https://snekstudio.com/)  
+  Open-source 3D VTuber avatar tool with Mediapipe support (body and face tracking via webcam) for VRM avatars.  
+  **Linux:** Native (Flatpak available)
 
 ---
 
