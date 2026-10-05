@@ -42,6 +42,10 @@ List of streaming software, VTuber avatar tools, and audio utilities for Linux-b
   Web-based Live2D face-tracking app (upload Live2D models to animate via webcam).  
   **Linux:** Native (browser)  
 
+- [Facecam PNGTuber Maker](https://www.facecam.ai/pngtuber-maker)  
+  Free browser PNGTuber maker: idle, talking and blink images that react to your mic, with a transparent OBS browser source. No install or sign-up.  
+  **Linux:** Native (browser)  
+
 - [VTube Studio](https://denchisoft.com/)  
   Live2D avatar capture/streaming app (Windows/macOS). Linux users run it via Steam Proton with OpenSeeFace for face tracking.  
   **Linux:** Via Proton (Steam)  
